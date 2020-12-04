@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image:url(img/main-bg.png);
+    background-repeat:no-repeat;
+    background-position:200% 100%;
+    padding:200px 0 140px 0;
+    margin:70px;
+    }
+
+.avatar{
+background-color: white;
+border-radius: 50%;
+width: 350px;
+    }
