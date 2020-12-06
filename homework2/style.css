@@ -1,4 +1,9 @@
-.inner{
+
+body{
+    background: url(images/background3.jpg);
+    background-size: auto;
+}
+inner{
     overflow: hidden;
 }
 .inner img{
