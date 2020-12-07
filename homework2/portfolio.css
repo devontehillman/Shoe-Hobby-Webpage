@@ -1,0 +1,36 @@
+#portfolio{
+    padding: 40px;
+    margin: 0 auto;
+}
+
+.gallery-title{
+    text-align: center;
+}
+
+.filter-button {
+    font-size: 18px;
+    border: 1px solid #db584e;
+    border-radius: 5px;
+    text-align: center;
+    color: #db584e;
+    margin-bottom: 30px;   
+}
+
+.filter-button:hover{
+    font-size: 18px;
+    border: 1px solid #eb548e;
+    text-align: center;
+    color: #fff;
+    background-color: #db548e;
+}
+.btn-default:active .filter-button{
+    background-color: #db584e;
+    color: #fff;
+}
+
+.gallery_product{
+    margin-bottom: 30px;
+}
+.img{
+    height: 200px;
+}
