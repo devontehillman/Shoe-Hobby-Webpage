@@ -4,7 +4,7 @@ html{
 }
 
 body{
-    background: url(images/background3.jpg);
+    background: url(../images/background3.jpg);
     background-size: auto;
     
     /*fix for sticky footer*/
