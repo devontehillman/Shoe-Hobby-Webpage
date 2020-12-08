@@ -34,3 +34,11 @@ footer{
 /*fix for sticky footer*/
 margin-top: auto;
 }
+
+@media only screen and (max-width: 750px) 
+{
+.card{
+margin-bottom:40px;
+} 
+
+}
