@@ -23,4 +23,10 @@ In this project I learned:
 ## Future improvments?
 * Add and improve semantic tags.
 * Add photo carousel for portfolio photo page.
-* Connecting contact fourm to a live server. 
+* Connecting contact fourm to a live server.
+
+## Recent Updates
+* Added photo fiters 
+* Reformatted Nav
+* Included Social Media link 
+* Added font Awesome Icons 
